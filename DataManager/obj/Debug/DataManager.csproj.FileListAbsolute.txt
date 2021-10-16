@@ -1,0 +1,10 @@
+C:\Users\OSevenC\source\repos\DataManager\DataManager\bin\Debug\DataManager.exe.config
+C:\Users\OSevenC\source\repos\DataManager\DataManager\bin\Debug\DataManager.exe
+C:\Users\OSevenC\source\repos\DataManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\OSevenC\source\repos\DataManager\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\OSevenC\source\repos\DataManager\DataManager\obj\Debug\DataManager.Properties.Resources.resources
+C:\Users\OSevenC\source\repos\DataManager\DataManager\obj\Debug\DataManager.csproj.GenerateResource.cache
+C:\Users\OSevenC\source\repos\DataManager\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\OSevenC\source\repos\DataManager\DataManager\obj\Debug\DataManager.exe
+C:\Users\OSevenC\source\repos\DataManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\OSevenC\source\repos\DataManager\DataManager\obj\Debug\DataManager.Form1.resources
